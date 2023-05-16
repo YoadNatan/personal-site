@@ -47,12 +47,17 @@ const App = () => {
           <Grid item xs={12} md={6}>
             <StyledCard>
               <CardContent>
-                <Typography variant="h5">Web Development</Typography>
+                <Typography variant="h4">
+                  I will build custom high-quality websites for startups and
+                  small businesses
+                </Typography>
                 <Typography variant="body1">
-                  I offer professional and responsive web development services.
-                  I utilize my skills in TypeScript, ReactJS, Redux, RxJS,
-                  AngularJS, NodeJS, ExpressJS, MongoDB, and GraphQL to deliver
-                  top-notch websites.
+                  Specializing in creating beautiful, responsive, and functional
+                  websites for startups and small businesses. Whether you need a
+                  landing page, a business website, or a web application, I'm
+                  here to help you build your online presence. I use modern
+                  programming languages and offer various website features
+                  according to your business needs.
                 </Typography>
                 <Button variant="contained" color="primary">
                   Order Now
@@ -63,12 +68,15 @@ const App = () => {
           <Grid item xs={12} md={6}>
             <StyledCard>
               <CardContent>
-                <Typography variant="h5">App Development</Typography>
+                <Typography variant="h4">
+                  I will develop custom mobile and web applications
+                </Typography>
                 <Typography variant="body1">
-                  I offer high-quality app development services. My expertise in
-                  Docker, AWS, Firebase, Python, and Selenium, coupled with a
-                  keen entrepreneurial spirit, allows me to deliver great
-                  applications that meet your needs.
+                  Offering comprehensive app development services for businesses
+                  and individuals. Leveraging modern technologies and tools, I
+                  can create custom mobile and web applications that meet your
+                  specific needs. Whether you need a simple app or a complex
+                  solution, I'm here to help you make your ideas come to life.
                 </Typography>
                 <Button variant="contained" color="primary">
                   Order Now
